@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-03T16:47:50.468Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="EfptPioSYyEtEF02Mqfs" version="22.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-04T02:50:00.265Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="GD6PHkgyluq9k7BrOCHp" version="21.8.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1548" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -67,7 +67,7 @@
         <mxCell id="4buIinI6nvuugBBMIHR4-1" value="Swipe right" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="281.5" y="440" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ukirl1jixMzlYr78SYaR-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Ukirl1jixMzlYr78SYaR-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="110" y="434" as="targetPoint" />
             <mxPoint x="110" y="379" as="sourcePoint" />
@@ -115,11 +115,14 @@
         <mxCell id="4buIinI6nvuugBBMIHR4-14" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="24" y="99" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ukirl1jixMzlYr78SYaR-0" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Ukirl1jixMzlYr78SYaR-0" value="yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="187" y="316" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ukirl1jixMzlYr78SYaR-1" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Ukirl1jixMzlYr78SYaR-1" value="no" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="373" y="401" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4FPjZ6pjKv1q7VkHTWcP-2" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Algorithm:&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;1. If phone is asleep, tap on phone screen until screen lights up, and phone is awake&lt;br&gt;2. Press the big circle button twice&lt;br&gt;3. If not in the app library, swipe right until in the app library&lt;br&gt;4. Open the phone app&lt;br&gt;5. Click the blue plus button in the top right corner of the screen&lt;br&gt;6. Type the name of the person you&#39;re creating a contact for in the &quot;Name&quot; field&lt;br&gt;7. Type the phone number of the person you&#39;re creating a contact for in the &quot;Mobile Phone&quot; field&lt;br&gt;8. Click the blue &quot;Create&quot; button in the top right corner&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="411" y="371" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
